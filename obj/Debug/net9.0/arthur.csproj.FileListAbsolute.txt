@@ -1,0 +1,15 @@
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/bin/Debug/net9.0/arthur
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/bin/Debug/net9.0/arthur.deps.json
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/bin/Debug/net9.0/arthur.runtimeconfig.json
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/bin/Debug/net9.0/arthur.dll
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/bin/Debug/net9.0/arthur.pdb
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.AssemblyInfoInputs.cache
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.AssemblyInfo.cs
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.csproj.CoreCompileInputs.cache
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.sourcelink.json
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.dll
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/refint/arthur.dll
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.pdb
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/arthur.genruntimeconfig.cache
+/Users/joaoguilhermedecastro/Desktop/arthur/arthur/obj/Debug/net9.0/ref/arthur.dll
